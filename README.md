@@ -37,6 +37,6 @@ It uses simple string manipulation combined with random token insertion to creat
 - loops & conditionals
 
 
-👨‍💻 Author
+🙌 Author
 
  Nikhil Kumar
