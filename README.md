@@ -21,6 +21,7 @@ This is a Python-based CLI tool that encodes and decodes text using a custom sec
 
 ```bash```
 python main.py
+
 🧠 Example
 Enter text: hello
 Output: (encoded text)
