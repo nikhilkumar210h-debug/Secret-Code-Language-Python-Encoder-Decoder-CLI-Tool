@@ -1,42 +1,39 @@
-# 🔐 Secret Code Language – Python Encoder & Decoder CLI Tool
+# 🔐 Secret Code Language Encoder & Decoder (CLI Tool)
 
-## 📌 Overview
-Secret Code Language is a Python-based command-line project that encodes normal sentences into a custom secret format and decodes them back to original text.
-
-It uses simple string manipulation combined with random token insertion to create a reversible encryption-style system.
+## 🚀 Overview
+This is a Python-based CLI tool that encodes and decodes text using a custom secret language.
 
 ---
 
-## 🚀 Features
-- Encode normal sentences into secret code
-- Decode secret code back to original text
-- Randomized encryption tokens for added uniqueness
-- Handles short words differently
-- Interactive CLI menu system (C / D / E)
-- Error detection for invalid encoded words
+## ✨ Features
+- Encode normal text into secret code  
+- Decode secret code back to original text  
+- Simple CLI interface  
 
 ---
 
-## 🧠 How It Works
-
-### 🔐 Encoding Logic:
-- Words with length < 3 → characters are swapped
-- Words with length ≥ 3 → placed first letter to last add 3 character as suffix and prefix 
-
-  
-### 📥 Decoding Logic:
-- Short words are reversed back
-- Encoded words are cleaned by removing prefix/suffix and restoring original order
+## 🛠️ Tech Stack
+- Python  
 
 ---
 
-## 🛠️ Technologies Used
-- Python 3
-- random module
-- string manipulation
-- loops & conditionals
+## ▶️ How to Run
 
+```bash```
+python main.py
+🧠 Example
+Enter text: hello
+Output: (encoded text)
 
-🙌 Author
+Enter encoded text: (encoded text)
+Output: hello
+📚 What I Learned
+Python basics
+Loops and conditions
+String handling
+🔮 Future Improvements
+Add GUI
+Improve encoding logic
+👨‍💻 Author
 
- Nikhil Kumar
+Nikhil Kumar
