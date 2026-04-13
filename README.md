@@ -23,18 +23,18 @@ This is a Python-based CLI tool that encodes and decodes text using a custom sec
 python main.py
 
 🧠 Example
-Enter text: hello
-Output: (encoded text)
+- Enter text: hello
+- Output: (encoded text)
 
-Enter encoded text: (encoded text)
-Output: hello
-📚 What I Learned
-Python basics
-Loops and conditions
-String handling
-🔮 Future Improvements
-Add GUI
-Improve encoding logic
-👨‍💻 Author
+- Enter encoded text: (encoded text)
+- Output: hello
+### 📚 What I Learned
+- Python basics
+- Loops and conditions
+- String handling
+## 🔮 Future Improvements
+- Add GUI
+- Improve encoding logic
+## 👨‍💻 Author
 
 Nikhil Kumar
